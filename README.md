@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aan 🧩</h1>
-
-<h3 align="center">Bit a about me</h3>
+<h1 align="center">Hi 👋, I'm Aan</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
