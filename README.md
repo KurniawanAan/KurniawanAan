@@ -22,7 +22,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🌐  Socials:
-<div align="left">
+<div align="center">
   <a href="mailto:anganz603@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
@@ -38,7 +38,7 @@
 
 ## 🛠️  Tech Stack:
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
@@ -50,8 +50,8 @@
 </p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KurniawanAan&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KurniawanAan&theme=darcula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KurniawanAan&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KurniawanAan&theme=tokyonight&hide_border=true&background=2d1b2e&ring=e75480&fire=ff8fab&currStreakLabel=e75480" alt="streak stats" />
+</p>
 
 <p align="center"> Appreciate stopping by! </p>
