@@ -16,38 +16,21 @@
   <img src="./sio.gif" width="100%" />
 </p> -->
 
----
+<br>
 
-### ✨ A bit about me
+- 👀 I'm interested in Mobile development
+- 🌱 I’m currently learning Flutter, Swift, and Kotlin
+- 🧑🏻‍💻 Been working on Kotlin, Swift, React(JS/Native) and Ionic
+- ⌛️ Experienced 2 year++ on Mobile development
+- 📫 Wanna collaborate? Email Here <br> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibnunaufal5758@gmail.com)
 
-- 🎓 currently learning, building, and figuring things out
-- 💻 I enjoy creating things from scratch — from the idea to the final little details
-- 🎨 UI/UX, visual design, and anything hands-on have always been my thing
-- 🧸 I like making things that are both functional and pretty
-- 🌱 currently exploring AI and different ways of bringing ideas to life
-- ✨ always picking up a new hobby, project, or something random to learn
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzahira-calista&theme=tokyonight&hide_border=true&background=2d1b2e&ring=e75480&fire=ff8fab&currStreakLabel=e75480" alt="streak stats" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ibnunaufal](https://www.linkedin.com/in/ibnu-naufal-22369b201)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ibnunaufal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ibnunaufal) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ibnunaufal/) [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/@ibnunaufal) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/ibnunaufal) 
 
----
-
-###  Connect with Me
-
-<div align="center">
-  <a href="https://www.instagram.com/callzhira">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:anganz603@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/aan-kurniawan-8299a2291/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+<br>
 
 ---
 
