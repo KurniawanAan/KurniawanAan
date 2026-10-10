@@ -15,6 +15,7 @@
 <p align="center">
   <img src="./sio.gif" width="100%" />
 </p> -->
+**About me**
 
 <br>
 
@@ -27,7 +28,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🌐 Socials:
+## 🌐  Socials:
 <div align="center">
   <a href="mailto:anganz603@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -42,7 +43,7 @@
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️  Tech Stack:
 
 
 <p align="center">
@@ -71,8 +72,9 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
 </p>
 
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p> -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KurniawanAan&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KurniawanAan&theme=darcula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KurniawanAan&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center"> Appreciate stopping by! </p>
