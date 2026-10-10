@@ -18,7 +18,7 @@
 
 ---
 
-### 🌷 A little about me
+### ✨ A bit about me
 
 - 🎓 currently learning, building, and figuring things out
 - 💻 I enjoy creating things from scratch — from the idea to the final little details
