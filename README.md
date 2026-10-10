@@ -2,7 +2,11 @@
 
 <p align="center"> <i></i> </p>
 
-<!-- <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=1200&color=E75480&center=true&vCenter=true&width=550&lines=code+%E2%80%A2+design+%E2%80%A2+create+%E2%9C%A7;making+things+I+find+interesting+%F0%9F%8C%B7;somewhere+between+logic+%26+creativity;always+making+something+%E2%9C%BF" alt="Typing SVG" /> </p> -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aan+Kurniawan!+%F0%9F%91%8B;Mobile+App+Developer+%F0%9F%93%B1;Kotlin+%26+Flutter+Developer+%E2%9A%A1;Crafting+Performant+Mobile+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=azzahia-calista&label=Profile%20views&color=e75480&style=flat" alt="azzahia-calista" />
