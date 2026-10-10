@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✌️, I'm Aan</h1>
+<h1 align="center">Hi 👋, I'm Aan</h1>
 
 <p align="center"> <i></i> </p>
 
@@ -12,11 +12,11 @@
 
 <br>
 
-- 👀 I'm interested in Mobile development
-- 🌱 I’m currently learning Flutter, Swift, and Kotlin
-- 🧑🏻‍💻 Been working on Kotlin, Swift, React(JS/Native) and Ionic
-- ⌛️ Experienced 2 year++ on Mobile development
-- 📫 Wanna collaborate? Email Here <br> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibnunaufal5758@gmail.com)
+- 📱 Crafting native Android & cross-platform mobile experiences
+- 🧑🏻‍💻 Been working on Kotlin and Flutter
+- 📬 **Let's Connect:** Send an email or reach out on LinkedIn for collaboration!
+- ⚽ Always balancing screen time with staying active, picking up new skills, and exploring new ideas
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -54,4 +54,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KurniawanAan&theme=tokyonight&hide_border=true&background=2d1b2e&ring=e75480&fire=ff8fab&currStreakLabel=e75480" alt="streak stats" />
 </p>
 
-<p align="center"> Appreciate stopping by! </p>
+<!-- <p align="center"> Appreciate stopping by! </p> -->
