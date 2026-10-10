@@ -14,7 +14,7 @@
 
 - 📱 Crafting native Android & cross-platform mobile experiences
 - 🧑🏻‍💻 Been working on Kotlin and Flutter
-- ⚽ Always balancing screen time with staying active, picking up new skills, and exploring new ideas
+- 🌱 staying active, picking up new ideas, and exploring new things
 - 📬 **Let's Connect:** Send an email or reach out on LinkedIn for collaboration!
 
 
