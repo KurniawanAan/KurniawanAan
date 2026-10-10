@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aan 🧩</h1>
+
 <h3 align="center">Bit a about me</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aan+Kurniawan!+%F0%9F%91%8B;Mobile+App+Developer+%F0%9F%93%B1;Kotlin+%26+Flutter+Developer+%E2%9A%A1;Crafting+Performant+Mobile+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
