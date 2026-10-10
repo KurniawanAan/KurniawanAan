@@ -8,13 +8,6 @@
   </a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azzahia-calista&label=Profile%20views&color=e75480&style=flat" alt="azzahia-calista" />
-</p>
-
-<p align="center">
-  <img src="./sio.gif" width="100%" />
-</p> -->
 **About me**
 
 <br>
@@ -45,6 +38,8 @@
 
 
 ---
+
+
 
 ## 🛠️  Tech Stack:
 
